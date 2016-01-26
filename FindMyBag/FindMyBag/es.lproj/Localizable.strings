@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  FindMyBag
+
+  Created by hebiao on 15-7-15.
+  Copyright (c) 2015年 hebiao. All rights reserved.
+*/
+
+
+
+"tabbar_list_1"="La lista de";
+"tabbar_camera_2"="Deja de alarma";
+"tabbar_location_3"="El posicionamiento";
+"tabbar_settings_4"="Siempre";
+"nagation_title_5"="La lista de equipos";
+"nagation_title_6"="Deja de alarma";
+"nagation_title_7"="El posicionamiento";
+"nagation_title_8"="Siempre";
+"cell_title_9"="No molestar";
+"cell_title_10"="APP La contraseña";
+"cell_title_11"="Cambiar de idioma";
+"cell_title_12"="Mapa de conmutación";
+"cell_title_13"="La versión";
+"cell_title_14"="Ha cerrado";
+"cell_title_14_a"="Se abre la";
+"cell_title_15"="V1.2.1";
+"nagation_title_16"="La elección de la lengua";
+"nagation_title_17"="Seleccione el mapa";
+"cell_title_18"="Mapa de Baidu";
+"cell_title_19"="Mapa de Apple";
+"nagation_title_20"="La pérdida de la historia";
+"nagation_title_21"="Ubicación de la lista";
+"cell_text_22"="Borrar";
+"cell_title_23"="Abrir la contraseña";
+"cell_title_24"="El cierre de la contraseña";
+"cell_title_25"="Cambiar la contraseña";
+"nagation_title_26"="Establecer la contraseña";
+"text_string_27"="Introduzca la contraseña";
+"text_string_28"="Introduzca otra";
+"text_string_29"="Escriba la contraseña anterior";
+"text_string_30"="No es lo mismo dos veces la contraseña de entrada de nuevo, por favor.";
+"text_string_31"="Error de contraseña";
+"text_string_32"="La conexión";
+"text_string_33"="Ha conectado";
+"text_string_34"="Sin conexión";
+"nagation_title_35"="Introducción";
+"cell_title_36"="Evitar perder.";
+"cell_title_37"="La búsqueda de";
+"cell_title_38"="Desconectar";
+"cell_title_39"="El equipo de alarma.";
+"cell_title_40"="La luz";
+"cell_title_41"="El teléfono de alarma";
+"cell_title_42"="La campana";
+"actionsheet_txt_43"="Por favor seleccione";
+"actionsheet_txt_44"="Cancelar";
+"actionsheet_txt_45"="Tomar fotos de la Cámara";
+"actionsheet_txt_46"="La selección de fotos";
+"res_name_47"="El canto de los pájaros";
+"res_name_48"="El ruido de los coches";
+"res_name_49"="El gato";
+"res_name_50"="Charla de llamadas";
+"res_name_51"="El ladrido de un perro";
+"res_name_52"="El fuego";
+"res_name_53"="La música";
+"res_name_54"="El radar";
+"res_name_55"="La trompeta";
+"res_name_56"="Silbar";
+"res_name_57"="La alarma";
+
+
+
+
+
+
+
+
+
+
+
+
+

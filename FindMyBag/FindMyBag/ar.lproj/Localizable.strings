@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  FindMyBag
+
+  Created by hebiao on 15-7-15.
+  Copyright (c) 2015年 hebiao. All rights reserved.
+*/
+"tabbar_list_1"="قائمة";
+"tabbar_camera_2"="توقف";
+"tabbar_location_3"="المواقع";
+"tabbar_settings_4"="إعدادات";
+"nagation_title_5"="قائمة المعدات";
+"nagation_title_6"="إيقاف التنبيه";
+"nagation_title_7"="المواقع";
+"nagation_title_8"="إعدادات";
+"cell_title_9"="لا تخل ";
+"cell_title_10"="APP كلمة السر";
+"cell_title_11"="تبديل اللغة";
+"cell_title_12"="تبديل خريطة";
+"cell_title_13"="نسخة";
+"cell_title_14"="تم إغلاق";
+"cell_title_14_a"="وقد  فتح";
+"cell_title_15"="V1.2.1";
+"nagation_title_16"="اختيار اللغة";
+"nagation_title_17"="اختيار  الخريطة";
+"cell_title_18"="خريطة بايدو";
+"cell_title_19"="شركة أبل  الخريطة";
+"nagation_title_20"="اي  تاريخ";
+"nagation_title_21"="قائمة  المواقع";
+"cell_text_22"="حذف";
+"cell_title_23"="فتح  كلمة السر";
+"cell_title_24"="إغلاق  كلمة السر";
+"cell_title_25"="تغيير كلمة السر";
+"nagation_title_26"="كلمة السر";
+"text_string_27"="أدخل كلمة السر";
+"text_string_28"="الدخول مرة أخرى";
+"text_string_29"="أدخل كلمة المرور القديمة";
+"text_string_30"="كلمة السر مرتين  مختلفة،  الرجاء إعادة إدخال";
+"text_string_31"="كلمة السر خاطئة";
+"text_string_32"="ربط";
+"text_string_33"="متصل";
+"text_string_34"="غير متصل";
+"nagation_title_35"="عرض";
+"cell_title_36"="مكافحة فقدان";
+"cell_title_37"="تبحث عن";
+"cell_title_38"="قطع الاتصال";
+"cell_title_39"="جهاز  إنذار";
+"cell_title_40"="أضواء";
+"cell_title_41"="الهاتف المحمول إنذار";
+"cell_title_42"="النغمات";
+"actionsheet_txt_43"="الرجاء اختيار";
+"actionsheet_txt_44"="إلغاء";
+"actionsheet_txt_45"="من  الكاميرا";
+"actionsheet_txt_46"="اختيار  من  الصور";
+"res_name_47"="الطيور";
+"res_name_48"="سيارة الصوت";
+"res_name_49"="المواء";
+"res_name_50"="دردشة  دعوة";
+"res_name_51"="الكلب ينبح";
+"res_name_52"="إنذار الحريق";
+"res_name_53"=" الموسيقى";
+"res_name_54"="الرادار";
+"res_name_55"="البوق";
+"res_name_56"="صفير";
+"res_name_57"="إنذار";
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+

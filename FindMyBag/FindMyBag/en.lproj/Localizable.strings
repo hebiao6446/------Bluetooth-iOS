@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  FindMyBag
+
+  Created by hebiao on 15-7-15.
+  Copyright (c) 2015年 hebiao. All rights reserved.
+*/
+
+
+"tabbar_list_1"="List";
+"tabbar_camera_2"="Stop";
+"tabbar_location_3"="Location";
+"tabbar_settings_4"="Settings";
+"nagation_title_5"="List";
+"nagation_title_6"="Stop";
+"nagation_title_7"="Location";
+"nagation_title_8"="Settings";
+"cell_title_9"="Do not remind";
+"cell_title_10"="APP Password";
+"cell_title_11"="Language switching";
+"cell_title_12"="Map switching";
+"cell_title_13"="Version";
+"cell_title_14"="Closed";
+"cell_title_14_a"="Opened";
+"cell_title_15"="V1.2.1";
+"nagation_title_16"="Select language";
+"nagation_title_17"="Select map";
+"cell_title_18"="Baidu map";
+"cell_title_19"="Apple map";
+"nagation_title_20"="Lost list";
+"nagation_title_21"="Locating list";
+"cell_text_22"="Delete";
+"cell_title_23"="Open password";
+"cell_title_24"="Close password";
+"cell_title_25"="Change password";
+"nagation_title_26"="Set password";
+"text_string_27"="Enter password";
+"text_string_28"="Enter one more time";
+"text_string_29"="Enter old password";
+"text_string_30"="Two times the password is not the same, please re-enter";
+"text_string_31"="Password error";
+"text_string_32"="Connect";
+"text_string_33"="Connected";
+"text_string_34"="unconnected";
+"nagation_title_35"="Introduction";
+"cell_title_36"="Anti lost";
+"cell_title_37"="Searching";
+"cell_title_38"="Disconnect connection";
+"cell_title_39"="Equipment alarm";
+"cell_title_40"="Light";
+"cell_title_41"="Phone alarm";
+"cell_title_42"="Ring";
+"actionsheet_txt_43"="Please choose";
+"actionsheet_txt_44"="Cancel";
+"actionsheet_txt_45"="Take photos from the camera";
+"actionsheet_txt_46"="Select from the photos";
+"res_name_47"="Bird";
+"res_name_48"="Car";
+"res_name_49"="Cat";
+"res_name_50"="Chat-call";
+"res_name_51"="Dog";
+"res_name_52"="Fire";
+"res_name_53"="Music";
+"res_name_54"="Radar";
+"res_name_55"="Trumpet";
+"res_name_56"="Whistle";
+"res_name_57"="Alarm";
+
+
+
+
+
+

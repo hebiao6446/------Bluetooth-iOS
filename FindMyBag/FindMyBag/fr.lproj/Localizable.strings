@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  FindMyBag
+
+  Created by hebiao on 15-7-15.
+  Copyright (c) 2015年 hebiao. All rights reserved.
+*/
+
+
+"tabbar_list_1"="Liste";
+"tabbar_camera_2"="Arrête";
+"tabbar_location_3"="De positionnement";
+"tabbar_settings_4"="Ensemble";
+"nagation_title_5"="La liste de dispositifs";
+"nagation_title_6"="Arrête l'alarme";
+"nagation_title_7"="De positionnement";
+"nagation_title_8"="Ensemble";
+"cell_title_9"="Ne pas déranger";
+"cell_title_10"="APP Mot de passe";
+"cell_title_11"="Commutation de langue";
+"cell_title_12"="La carte de commutation";
+"cell_title_13"="Version";
+"cell_title_14"="Est fermée";
+"cell_title_14_a"="Est ouverte";
+"cell_title_15"="V1.2.1";
+"nagation_title_16"="Sélection de la langue";
+"nagation_title_17"="Choisir la carte";
+"cell_title_18"="Baidu Carte";
+"cell_title_19"="Apple Carte";
+"nagation_title_20"="La perte de l'histoire";
+"nagation_title_21"="Liste de positionnement";
+"cell_text_22"="Supprimer";
+"cell_title_23"="Ouvre le mot de passe";
+"cell_title_24"="Est fermé, le mot de passe";
+"cell_title_25"="Changer le mot de passe";
+"nagation_title_26"="Le mot de passe";
+"text_string_27"="Saisissez le mot de passe";
+"text_string_28"="Plus d'une fois";
+"text_string_29"="Saisissez l'ancien mot de passe";
+"text_string_30"="Deux fois le même mot de passe pas, s'il vous plaît.";
+"text_string_31"="Erreur de mot de passe";
+"text_string_32"="Connexion";
+"text_string_33"="Est connecté";
+"text_string_34"="Non connecté";
+"nagation_title_35"="Le logiciel";
+"cell_title_36"="perdu";
+"cell_title_37"="Rechercher";
+"cell_title_38"="Déconnecter";
+"cell_title_39"="Dispositif d'alarme";
+"cell_title_40"="De la lumière";
+"cell_title_41"="Téléphone d'alarme";
+"cell_title_42"="Sonnerie";
+"actionsheet_txt_43"="Veuillez choisir";
+"actionsheet_txt_44"="Annuler";
+"actionsheet_txt_45"="De la caméra";
+"actionsheet_txt_46"="Sélection de photos";
+"res_name_47"="Les oiseaux";
+"res_name_48"="La voiture de voix";
+"res_name_49"="Le chat miaule";
+"res_name_50"="La voix d'appel de conversation";
+"res_name_51"="Le chien aboie";
+"res_name_52"="Le son de l'alarme d'incendie";
+"res_name_53"="La musique";
+"res_name_54"="Radar";
+"res_name_55"="Trompettes";
+"res_name_56"="Siffler";
+"res_name_57"="Alarme";
+
+
+
+
